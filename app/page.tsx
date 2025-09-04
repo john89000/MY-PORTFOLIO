@@ -495,7 +495,7 @@ export default function Portfolio() {
                     onClick={() => window.open("#", "_blank")}
                   >
                     <ExternalLink className="mr-2 h-4 w-4" />
-                    Demo
+                    View
                   </Button>
                 </div>
               </CardContent>
@@ -535,7 +535,7 @@ export default function Portfolio() {
                     onClick={() => window.open("#", "_blank")}
                   >
                     <ExternalLink className="mr-2 h-4 w-4" />
-                    Demo
+                    View
                   </Button>
                 </div>
               </CardContent>
@@ -558,7 +558,7 @@ export default function Portfolio() {
             {/* Education Entry 1 */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center animate-fade-in-up animation-delay-400">
               <div className="text-center md:text-right">
-                <p className="text-lg font-semibold text-white">2024 - Present</p>
+                <p className="text-lg font-semibold text-white">2025 May - Present</p>
               </div>
               <div className="text-center md:text-left">
                 <p className="text-white text-lg">Bachelor's in Software Engineering at USIU</p>
@@ -578,7 +578,7 @@ export default function Portfolio() {
             {/* Education Entry 2 */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center animate-fade-in-up animation-delay-600">
               <div className="text-center md:text-right">
-                <p className="text-lg font-semibold text-white">2024 - 2024</p>
+                <p className="text-lg font-semibold text-white">2025 July - Present</p>
               </div>
               <div className="text-center md:text-left">
                 <p className="text-white text-lg">Software Development Course at Power Learn Project(PLP)</p>
@@ -601,7 +601,7 @@ export default function Portfolio() {
                 <p className="text-lg font-semibold text-white">2022 - 2024</p>
               </div>
               <div className="text-center md:text-left">
-                <p className="text-white text-lg">Computer Science Foundation (2nd Year Standing)</p>
+                <p className="text-white text-lg">Computer Science at Riara University</p>
               </div>
               <div className="text-center">
                 <Button
@@ -615,25 +615,6 @@ export default function Portfolio() {
               </div>
             </div>
 
-            {/* Education Entry 4 */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center animate-fade-in-up animation-delay-1000">
-              <div className="text-center md:text-right">
-                <p className="text-lg font-semibold text-white">2023 - 2023</p>
-              </div>
-              <div className="text-center md:text-left">
-                <p className="text-white text-lg">ICT Support & Development Experience at KMTC Nairobi</p>
-              </div>
-              <div className="text-center">
-                <Button
-                  size="sm"
-                  variant="outline"
-                  className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                  onClick={() => window.open("#", "_blank")}
-                >
-                  View
-                </Button>
-              </div>
-            </div>
           </div>
 
           {/* Scroll indicator */}
