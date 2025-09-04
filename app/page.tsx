@@ -687,7 +687,7 @@ export default function Portfolio() {
                   <div>
                     <p className="text-white font-semibold">GitHub</p>
                     <a
-                      href="https://github.com/johnoito"
+                      href="https://github.com/john89000"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-teal-200 hover:text-teal-100 transition-colors"
@@ -704,7 +704,7 @@ export default function Portfolio() {
                   <div>
                     <p className="text-white font-semibold">LinkedIn</p>
                     <a
-                      href="https://linkedin.com/in/johnoito"
+                      href="https://www.linkedin.com/in/john-oito/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-teal-200 hover:text-teal-100 transition-colors"
@@ -734,7 +734,7 @@ export default function Portfolio() {
             </p>
             <div className="flex justify-center space-x-6">
               <a
-                href="https://github.com/johnoito"
+                href="https://github.com/john89000"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-teal-200 hover:text-white transition-colors"
@@ -742,7 +742,7 @@ export default function Portfolio() {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://linkedin.com/in/johnoito"
+                href="https://www.linkedin.com/in/john-oito/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-teal-200 hover:text-white transition-colors"
