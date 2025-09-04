@@ -335,7 +335,7 @@ export default function Portfolio() {
         <div className="container mx-auto px-6">
           <h2 className="text-4xl font-bold text-center mb-4 animate-fade-in-up">Projects</h2>
           <p className="text-center text-teal-200 mb-12 text-lg animate-fade-in-up animation-delay-200">
-            🚀 Software Development Projects
+             Software Development Projects
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto">
