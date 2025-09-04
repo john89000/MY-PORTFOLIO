@@ -598,7 +598,7 @@ export default function Portfolio() {
             {/* Education Entry 3 */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center animate-fade-in-up animation-delay-800">
               <div className="text-center md:text-right">
-                <p className="text-lg font-semibold text-white">2022 - 2024</p>
+                <p className="text-lg font-semibold text-white">2022 September - 2024 December</p>
               </div>
               <div className="text-center md:text-left">
                 <p className="text-white text-lg">Computer Science at Riara University</p>
