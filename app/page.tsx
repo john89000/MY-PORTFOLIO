@@ -443,7 +443,7 @@ export default function Portfolio() {
                     size="sm"
                     variant="outline"
                     className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                    onClick={() => window.open("https://github.com/johnoito", "_blank")}
+                    onClick={() => window.open("https://github.com/john89000/OUT-OF-AFRICA-ar", "_blank")}
                   >
                     <Github className="mr-2 h-4 w-4" />
                     GitHub
@@ -452,7 +452,7 @@ export default function Portfolio() {
                     size="sm"
                     variant="outline"
                     className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                    onClick={() => window.open("#", "_blank")}
+                    onClick={() => window.open("https://v0-ofa-landing-page.vercel.app/", "_blank")}
                   >
                     <ExternalLink className="mr-2 h-4 w-4" />
                     Demo
