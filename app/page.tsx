@@ -192,7 +192,7 @@ export default function Portfolio() {
               variant="ghost"
               size="sm"
               className="text-white hover:text-teal-200 hover:bg-white/10 rounded-full w-12 h-12"
-              onClick={() => window.open("https://github.com/johnoito", "_blank")}
+              onClick={() => window.open("https://github.com/john89000", "_blank")}
             >
               <Github className="h-6 w-6" />
             </Button>
@@ -200,7 +200,7 @@ export default function Portfolio() {
               variant="ghost"
               size="sm"
               className="text-white hover:text-teal-200 hover:bg-white/10 rounded-full w-12 h-12"
-              onClick={() => window.open("https://linkedin.com/in/johnoito", "_blank")}
+              onClick={() => window.open("https://www.linkedin.com/in/john-oito/", "_blank")}
             >
               <Linkedin className="h-6 w-6" />
             </Button>
