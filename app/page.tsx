@@ -711,7 +711,7 @@ export default function Portfolio() {
         <div className="container mx-auto px-6">
           <div className="text-center">
             <p className="text-teal-200 mb-4">
-              © 2024 John Oito. All rights reserved. Built with passion and modern web technologies.
+              © 2025 John Oito. All rights reserved. Built with passion and modern web technologies.
             </p>
             <div className="flex justify-center space-x-6">
               <a
