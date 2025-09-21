@@ -616,44 +616,59 @@ export default function Portfolio() {
             </div>
 
             {/* Education Entry 4 */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center animate-fade-in-up animation-delay-600">
-              <div className="text-center md:text-right">
-                <p className="text-lg font-semibold text-white">2023 September - 2024 February</p>
-              </div>
-              <div className="text-center md:text-left">
-                <p className="text-white text-lg">NDG Linux Essentials at Cisco Networking Academy program.</p>
-              </div>
-              <div className="text-center">
-                <Button
-                  size="sm"
-                  variant="outline"
-                  className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                  onClick={() => window.open("#", "_blank")}
-                >
-                  View
-                </Button>
-              </div>
-            </div>
+<div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center animate-fade-in-up animation-delay-600">
+  <div className="text-center md:text-right">
+    <p className="text-lg font-semibold text-white">2023 September - 2024 February</p>
+  </div>
+  <div className="text-center md:text-left">
+    <p className="text-white text-lg">
+      NDG Linux Essentials at Cisco Networking Academy program.
+    </p>
+  </div>
+  <div className="text-center">
+    <Button
+      size="sm"
+      variant="outline"
+      className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
+      onClick={() =>
+        window.open(
+          "https://drive.google.com/file/d/1ffCgZUQeH7mazt553PY-JDBvGldAAuuE/view?usp=sharing",
+          "_blank"
+        )
+      }
+    >
+      View
+    </Button>
+  </div>
+</div>
 
              {/* Education Entry 5 */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center animate-fade-in-up animation-delay-600">
-              <div className="text-center md:text-right">
-                <p className="text-lg font-semibold text-white">2023 September - 2024 February</p>
-              </div>
-              <div className="text-center md:text-left">
-                <p className="text-white text-lg">CLA - Programming Essentials in C at Cisco Networking Academy program.</p>
-              </div>
-              <div className="text-center">
-                <Button
-                  size="sm"
-                  variant="outline"
-                  className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                  onClick={() => window.open("#", "_blank")}
-                >
-                  View
-                </Button>
-              </div>
-            </div>
+<div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-center animate-fade-in-up animation-delay-600">
+  <div className="text-center md:text-right">
+    <p className="text-lg font-semibold text-white">2023 September - 2024 February</p>
+  </div>
+  <div className="text-center md:text-left">
+    <p className="text-white text-lg">
+      CLA - Programming Essentials in C at Cisco Networking Academy program.
+    </p>
+  </div>
+  <div className="text-center">
+    <Button
+      size="sm"
+      variant="outline"
+      className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
+      onClick={() =>
+        window.open(
+          "https://drive.google.com/file/d/1rGFmkJ6QOSaWUs-Bm-Bnws0Z32N5JQoV/view?usp=sharing",
+          "_blank"
+        )
+      }
+    >
+      View
+    </Button>
+  </div>
+</div>
+
 
 
           </div>
