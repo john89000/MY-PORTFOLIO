@@ -503,13 +503,13 @@ export default function Portfolio() {
 
             <Card className="hover:shadow-lg transition-all duration-300 transform hover:scale-105 bg-white/10 border-teal-400/30 animate-fade-in-up animation-delay-1200">
               <CardContent className="p-6">
-                <h3 className="text-xl font-semibold mb-3 text-white">Online Ebook Store</h3>
+                <h3 className="text-xl font-semibold mb-3 text-white">Explore World – Travel Website</h3>
                 <p className="text-teal-100 mb-4 text-pretty">
-                  E-commerce project with customer support integration, payment processing, and inventory management.
+                  Travel website with responsive design, image slider, service showcase, and contact form validation.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   <Badge variant="outline" className="border-teal-400 text-teal-200">
-                    E-commerce
+                    Travel
                   </Badge>
                   <Badge variant="outline" className="border-teal-400 text-teal-200">
                     Payment
@@ -523,7 +523,7 @@ export default function Portfolio() {
                     size="sm"
                     variant="outline"
                     className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                    onClick={() => window.open("https://github.com/johnoito", "_blank")}
+                    onClick={() => window.open("https://github.com/john89000/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl", "_blank")}
                   >
                     <Github className="mr-2 h-4 w-4" />
                     GitHub
@@ -532,7 +532,7 @@ export default function Portfolio() {
                     size="sm"
                     variant="outline"
                     className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                    onClick={() => window.open("#", "_blank")}
+                    onClick={() => window.open("https://explore-world-travel.netlify.app/", "_blank")}
                   >
                     <ExternalLink className="mr-2 h-4 w-4" />
                     View
