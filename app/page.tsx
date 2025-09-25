@@ -374,7 +374,7 @@ export default function Portfolio() {
                     onClick={() => window.open("#", "_blank")}
                   >
                     <ExternalLink className="mr-2 h-4 w-4" />
-                    Demo
+                    View
                   </Button>
                 </div>
               </CardContent>
