@@ -581,7 +581,7 @@ export default function Portfolio() {
                 <p className="text-lg font-semibold text-white">2025 July - Present</p>
               </div>
               <div className="text-center md:text-left">
-                <p className="text-white text-lg">Software Development Course at Power Learn Project(PLP)</p>
+                <p className="text-white text-lg">Full-Stack Developer (MERN Stack) at Power Learn Project(PLP)</p>
               </div>
               <div className="text-center">
                 <Button
