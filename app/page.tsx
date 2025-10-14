@@ -576,7 +576,7 @@ export default function Portfolio() {
                     onClick={() => window.open("https://www.canva.com/design/DAG1plzLd38/P-3PTg_B5pE3Hre0axiOnA/edit?utm_content=DAG1plzLd38&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton", "_blank")}
                   >
                     <ExternalLink className="mr-2 h-4 w-4" />
-                    Pitch Deck
+                    Pitch
                   </Button>
                   <Button
                     size="sm"
