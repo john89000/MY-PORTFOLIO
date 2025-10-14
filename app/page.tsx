@@ -568,6 +568,16 @@ export default function Portfolio() {
                     <Github className="mr-2 h-4 w-4" />
                     GitHub
                   </Button>
+
+                <Button
+                    size="sm"
+                    variant="outline"
+                    className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
+                    onClick={() => window.open("https://www.canva.com/design/DAG1plzLd38/P-3PTg_B5pE3Hre0axiOnA/edit?utm_content=DAG1plzLd38&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton", "_blank")}
+                  >
+                    <ExternalLink className="mr-2 h-4 w-4" />
+                    Pitch Deck
+                  </Button>
                   <Button
                     size="sm"
                     variant="outline"
