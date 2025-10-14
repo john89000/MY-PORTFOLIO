@@ -563,7 +563,7 @@ export default function Portfolio() {
                     size="sm"
                     variant="outline"
                     className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                    onClick={() => window.open("https://github.com/john89000/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl", "_blank")}
+                    onClick={() => window.open("https://github.com/john89000/SOIL-AI-STARTER", "_blank")}
                   >
                     <Github className="mr-2 h-4 w-4" />
                     GitHub
@@ -572,7 +572,7 @@ export default function Portfolio() {
                     size="sm"
                     variant="outline"
                     className="border-teal-400 text-teal-200 hover:bg-teal-400 hover:text-teal-900 bg-transparent"
-                    onClick={() => window.open("https://explore-world-travel.netlify.app/", "_blank")}
+                    onClick={() => window.open("https://soil-ai-starter.vercel.app/", "_blank")}
                   >
                     <ExternalLink className="mr-2 h-4 w-4" />
                     View
